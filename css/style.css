@@ -66,15 +66,15 @@ a{
 }
 
 .home{
-    background: linear-gradient( var(--background-50), var(--background-50)) ,url("../Images/Homepage_main.png") no-repeat;
+    background: linear-gradient( var(--background-50), var(--background-50)) ,url(../Images/Homepage_main.png) no-repeat;
 }
 
 .facility{
-    background: linear-gradient( var(--background-50), var(--background-50)) ,url("../Images/Facilities-main.png") no-repeat;
+    background: linear-gradient( var(--background-50), var(--background-50)) ,url( ../Images/Facilities-main.png) no-repeat;
 }
 
 .room{
-    background: linear-gradient(var(--background-50), var(--background-50)), url( "../Images/Rooms_main.png") no-repeat;
+    background: linear-gradient(var(--background-50), var(--background-50)), url( ../Images/Rooms_main.png) no-repeat;
 }
 
 .contact{
